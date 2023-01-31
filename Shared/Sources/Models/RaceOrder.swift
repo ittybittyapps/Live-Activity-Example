@@ -1,9 +1,4 @@
-//
-//  RaceOrder.swift
-//  
-//
-//  Created by Personal James on 30/12/2022.
-//
+// Copyright 2023 Itty Bitty Apps Pty Ltd. See LICENSE file.
 
 import Foundation
 

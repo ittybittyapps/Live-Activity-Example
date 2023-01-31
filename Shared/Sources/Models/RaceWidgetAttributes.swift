@@ -1,9 +1,4 @@
-//
-//  RaceWidgetAttributes.swift
-//  
-//
-//  Created by James Warren on 19/1/2023.
-//
+// Copyright 2023 Itty Bitty Apps Pty Ltd. See LICENSE file.
 
 import Foundation
 import ActivityKit

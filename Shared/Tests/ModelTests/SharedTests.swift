@@ -1,3 +1,5 @@
+// Copyright 2023 Itty Bitty Apps Pty Ltd. See LICENSE file.
+
 import XCTest
 @testable import Shared
 
