@@ -8,7 +8,7 @@ A small app showing how to build a basic [Live Activity](https://developer.apple
 
 This project is used in a talk given by [James Warren](https://github.com/JamesW-iOS) at an [Itty Bitty Apps](https://www.ittybittyapps.com) "lunch and learn" about how to build iOS 16 Live Activities.
 
-A recording of the talk is available [here](https://youtu.be/JZ8-vkNLfuw).
+A recording of the talk is available [on YouTube](https://youtu.be/JZ8-vkNLfuw).
 
 ## Required Tools
 
