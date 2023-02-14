@@ -1,4 +1,4 @@
-# Live Activity Example
+# Live Activity Example for iOS 16
 
 <img src="https://user-images.githubusercontent.com/78183482/214468406-c13160aa-d370-4a25-95e2-b2f3f529324d.png" width="300">
 
