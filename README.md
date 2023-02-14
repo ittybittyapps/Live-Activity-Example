@@ -1,8 +1,18 @@
-# Live-Activity-Example
+# Live Activity Example
 
-A small app showing how to use a basic Live Activity
+<img style="float: right;" src="https://user-images.githubusercontent.com/78183482/214468406-c13160aa-d370-4a25-95e2-b2f3f529324d.png" width="300">
 
-A recording of the talk is avaiable [here](https://youtu.be/JZ8-vkNLfuw)
+A small app showing how to build a basic [Live Activity](https://developer.apple.com/documentation/activitykit/displaying-live-data-with-live-activities) for iOS 16 in Swift.
 
+---
 
-![RocketSim_Screenshot_iPhone_14_Pro_2023-01-25_13 38 50](https://user-images.githubusercontent.com/78183482/214468406-c13160aa-d370-4a25-95e2-b2f3f529324d.png)
+This project is used in a talk given by James Warren (@JamesW-iOS) at an [Itty Bitty Apps](https://www.ittybittyapps.com) "lunch and learn" about how to build iOS 16 Live Activities.
+
+A recording of the talk is avaiable [here](https://youtu.be/JZ8-vkNLfuw).
+
+## Required Tools
+
+In order to build this application you will need:
+
+- Xcode 14.2
+- macOS 13 or later
